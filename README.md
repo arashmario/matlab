@@ -1,2 +1,2 @@
 # matlab
-Code for getting data from Arduino into MATLAB.
+xCode for getting data from Arduino into MATLAB.
